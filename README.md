@@ -1,2 +1,5 @@
 # README #
-Practice repository for learning Git workflow!
+
+## Table of Contents
+
+- example_file.txt
